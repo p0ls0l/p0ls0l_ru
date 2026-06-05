@@ -1,4 +1,4 @@
-# ## Полина Соловьева ##
+## Полина Соловьева ##
 
 [english version](https://github.com/p0ls0l)
 
